@@ -1,15 +1,6 @@
 # Building REST API with Node, JWT(Json Web Token) and Express
 
 ## RESTful API endpoints
-## GET `/api/login`
-Login.
-
-+ Method: `POST`
-+ URL: `/api/login`
-+ Body:
-
-`
-{ "email":"test123@mailinator.com", "password":"test@123"}`
 
 ## GET `/api/register
 Login.
@@ -20,6 +11,18 @@ Login.
 
 `
 { "name":"Test", "email":"test123@mailinator.com", "password":"test@123"}`
+
+
+## GET `/api/login`
+Login.
+
++ Method: `POST`
++ URL: `/api/login`
++ Body:
+
+`
+{ "email":"test123@mailinator.com", "password":"test@123"}`
+
 
 ## Install
 
