@@ -2,7 +2,7 @@
 
 ## RESTful API endpoints
 
-## GET `/api/register`
+## POST `/api/register`
 Login.
 
 + Method: `POST`
@@ -13,7 +13,7 @@ Login.
 { "name":"Test", "email":"test123@mailinator.com", "password":"test@123"}`
 
 
-## GET `/api/login`
+## POST `/api/login`
 Login.
 
 + Method: `POST`
