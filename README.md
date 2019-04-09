@@ -1,7 +1,7 @@
 # Building REST API with Node, JWT(Json Web Token) and Express
 
 ## RESTful API endpoints
-## GET `/api/login
+## GET `/api/login`
 Login.
 
 + Method: `POST`
