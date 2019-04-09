@@ -2,7 +2,7 @@
 
 ## RESTful API endpoints
 
-## GET `/api/register
+## GET `/api/register`
 Login.
 
 + Method: `POST`
