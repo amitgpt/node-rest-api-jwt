@@ -3,7 +3,7 @@
 ## RESTful API endpoints
 
 ## POST `/api/register`
-Login.
+Register.
 
 + Method: `POST`
 + URL: `/api/register`
@@ -22,6 +22,16 @@ Login.
 
 `
 { "email":"test123@mailinator.com", "password":"test@123"}`
+
+## POST `/api/changepassword`
+Change Password.
+
++ Method: `POST`
++ URL: `/api/changepassword`
++ Body:
+
+`
+{ "password":"test123", "token":"token"}`
 
 
 ## Install
